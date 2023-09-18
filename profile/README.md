@@ -1,4 +1,4 @@
-![Bacalex](.github/profile/bannerbacalex.png)
+![Bacalex](/profile/bannerbacalex.png)
 BacalexOS is a Russian Linux distribution based on Linux From Scratch. It uses KISS (Keep It Simple, Stupid) principles in development to ensure ease of use and efficiency.
 
 BacalexOS is of the Rolling Release type, which means that new updates and patches are released regularly and can be installed without having to reinstall the operating system.
